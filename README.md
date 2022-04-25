@@ -5,6 +5,7 @@
 - 📫 How to reach me --> https://www.linkedin.com/in/jesus-gajardo-medina-17b1a2218/
 
  - 😁 Watch my CV here --> https://jesus-medina.github.io/Curriculum/#portafolio-link
+ - 
 ![perfil git](https://user-images.githubusercontent.com/102434136/165016827-187c06bd-5a4a-4d32-8157-8e7ec016fc3d.png)
 
 <!---
